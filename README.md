@@ -1,0 +1,1 @@
+This is the simple clone of landing page of zeordha using pure HTML and CSS 
